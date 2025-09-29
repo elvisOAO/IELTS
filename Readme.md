@@ -4,9 +4,10 @@
 
 ## 下载或克隆本项目， 打开根目录index.html即可开始雅思学习
 - 注意： 写作请直接看Writing目录下的md: https://github.com/zeeklog/IETLS/tree/master/Writing%E6%A1%88%E4%BE%8B
-- 网站入口： https://zeeklog.github.io/IETLS/#IELTS
-  
 
+## 网站入口：
+-  https://zeeklog.github.io/IETLS/#IELTS
+  
 ![image](https://github.com/user-attachments/assets/23ac47e3-66bc-44b4-9da9-36ff504a5a2c)
 
 ### 真题
@@ -15,9 +16,7 @@
 ### 听力
 ![image](https://github.com/user-attachments/assets/bae34a6d-9ad0-4fb5-ba00-4982c284253e)
 
-
-感谢所有人。材料来自：@shah0150 & @kbtxwer
-
+## 目录
 * [超棒的雅思资源](#awesome-ielts)
     * [雅思简介](#introielts)
     * [听力](#listening)
@@ -29,7 +28,7 @@
     * [YouTube 频道](#youtubechannels)
     * [播客] (#podcasts)
 
-## 雅思简介
+## 雅思简介 (新手指南)
 
 * [什么是雅思](http://takeielts.britishcouncil.org/choose-ielts/what-ielts) - 了解什么是雅思
 
@@ -123,4 +122,5 @@
 
 * [浓缩英语](https://www.espressoenglish.net/)
 
-### 觉得内容不错， 欢迎给我们Star
+
+### 觉得内容不错， 欢迎给弟弟一个Star
