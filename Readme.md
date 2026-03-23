@@ -15,7 +15,7 @@
 ## 访问入口
 
 - **https://zeeklog.github.io/IETLS/#IELTS**
-- **https://ietls.zeeklog.com**
+- **https://ielts.zeeklog.com**
 
 ---
 
